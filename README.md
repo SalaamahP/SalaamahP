@@ -1,10 +1,11 @@
 # Digital Portfolio
-## Career Development
+## Business Communication
 
 <details>
 <summary>Evidence</summary>
-  
- ![1_Career Dev](https://github.com/user-attachments/assets/ff5139dd-051f-4762-b09a-faca8ea39564)
+  <img width="816" height="716" alt="Screenshot 2025-10-13 205637" src="https://github.com/user-attachments/assets/640ec509-1f5b-49aa-aa82-c7b90e235ef1" />
+
+
 
 
 
@@ -25,12 +26,13 @@ Furthermore, I learnt that aligning goals with my values was a crucial step in m
 Overall, by implementing methodical planning for my career goals I became equipped with sound information and criteria when searching for jobs and felt secured in my current projection into the industry as my goals were suitable and sustainable.
 
 
-## Skills and Interests
+## Interview Skills
 
 <details>
 <summary>Evidence</summary>
   
-![2_Skills and Int](https://github.com/user-attachments/assets/e6c29723-f385-47fe-a2f1-30b4a7548bef)
+<img width="785" height="713" alt="Screenshot 2025-10-13 205535" src="https://github.com/user-attachments/assets/1f0f73fc-0186-4fa5-b444-9db0653bfc42" />
+
 
 
 </details>
@@ -46,12 +48,13 @@ Overall, by implementing methodical planning for my career goals I became equipp
 **R:** As a result, I was able to determine that I value, altruism, freedom, self-reliance and consistency. Having a clear and definitive understanding of my value became a key component when applying to jobs, answering question and drafting cover letters. As it guided my tasks based on sound information. Furthermore, I came to realize that my interest areas combine realistic, conventional and social. By determining these interests, I engaged more with job posting and could easily determine which ones aligned with my interests and would likely facilitate more determination and enjoyment. 
 
 
-## Personality Assessment
+## Mock Interview Video
 
 <details>
 <summary>Evidence</summary>
   
-![3_Personality Assessment](https://github.com/user-attachments/assets/20781667-bdf1-422b-ac4e-b63c1c5617c7)
+<img width="823" height="571" alt="Screenshot 2025-10-13 205550" src="https://github.com/user-attachments/assets/f1579fd4-9e22-4324-bc58-b038f83a6224" />
+
 
 
 </details>
@@ -68,12 +71,13 @@ One narrowed down by personality types to the top three, I could realistically e
 **R:** I determined that my interest categories are Realistic, Social and Conventional and based on these categories. Empowered with this knowledge I discovered jobs within my area of study align with by interest. As developing technology involves completing well-defined tasks (conventional) and involves building, repairing, tools and machines (realistic) and often technology is based on meeting a need (social). This information allowed me to realize my interest align with my personality and as a result I am likely to perform well and be satisfied in my job.
 
 
-## Create a CV
+## Professional Networking
 
 <details>
 <summary>Evidence</summary>
   
-![4_Create a CV](https://github.com/user-attachments/assets/11e7340d-57ae-4d04-8b96-9a26576fcf70)
+<img width="809" height="706" alt="Screenshot 2025-10-13 205606" src="https://github.com/user-attachments/assets/1f72f89a-f493-47fb-92d8-479d0ff4af97" />
+
 
 
 </details>
@@ -91,11 +95,12 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 **R:** Resultingly, I was able to continuously develop my CV and create a finalized document which could be used for job applications. Additionally, I knew to mirror keywords from job postings to ensure better alignment for each application. Furthermore, I also knew how to write a cover letter. Having this document ready to adapt to each job greatly simplified my applications and ensure a smooth experience as I was satisfied in the documents I was submitting.
 
 
-## CV Submission
+## Work Place Etiquette
 <details>
 <summary>Evidence</summary>
   
-![5_CV Sub](https://github.com/user-attachments/assets/7760ae96-7f17-439b-ae0a-3b06dda18c83)
+<img width="819" height="716" alt="Screenshot 2025-10-13 205619" src="https://github.com/user-attachments/assets/ef0c4abe-e5fa-4237-8cea-d1b370e57a9c" />
+
 
 
 </details>
