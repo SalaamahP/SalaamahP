@@ -13,7 +13,7 @@
 </details>
 
 ### Reflection
-<p align="justify">
+
 **S:** As I am currently in the final year of the ICT qualification and preparing for work integrated learning and graduation having a well-defined career path is a top priority. However, to determine such a crucial aspect of my professional journey is not a simple endeavour. As these past years of education has broadened my understanding of the options available to an IT student and to select a specific path to pursue is a complex task.
 
  
@@ -25,7 +25,6 @@ Such as structured goal setting, using the SMART, is more effective, ensures tha
 **R:** As such I actively took steps to address gaps in my skills which concerned me and sought additional resources to supplement any problem areas. This became invaluable in our Capstone project as I needed use Git and manage the groups GitHub project.
 Furthermore, I learnt that aligning goals with my values was a crucial step in my career planning as it enabled a positive and excited outlook towards my future career development
 Overall, by implementing methodical planning for my career goals I became equipped with sound information and criteria when searching for jobs and felt secured in my current projection into the industry as my goals were suitable and sustainable.
-</p>
 
 
 ## Skills and Interests
