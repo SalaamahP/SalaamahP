@@ -122,11 +122,16 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 
 
-
-
 </details>
 
 ### Reflection
+**S:** 
+
+**T:** 
+
+**A:** 
+
+**R:** 
   
 
 
@@ -142,6 +147,14 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 </details>
 
 ### Reflection
+
+**S:** 
+
+**T:** 
+
+**A:** 
+
+**R:** 
 
 
 
@@ -159,6 +172,14 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
+**S:** 
+
+**T:** 
+
+**A:** 
+
+**R:** 
+
 
 
 ## Professional Networking
@@ -174,6 +195,14 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
+**S:** 
+
+**T:** 
+
+**A:** 
+
+**R:** 
+
 
 ## Work Place Etiquette
 <details>
@@ -186,6 +215,14 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 </details>
 
 ### Reflection
+
+**S:** 
+
+**T:** 
+
+**A:** 
+
+**R:** 
 
 
 
