@@ -125,13 +125,15 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 </details>
 
 ### Reflection
-**S:** 
+**S:** As a final year student preparing for industry, possessing a clear understanding of appropriate workplace communication and conduct was vital. While most individuals have a general sense of accepted behaviours and procedures, this knowledge is often theoretical and ultimately not second nature. As such it was vital to develop a deeper understanding of the nuances of professional communication on all levels such as video calls, emails, verbal communication and non-verbal communication to be as prepared as possible for the workplace setting
 
-**T:** 
+**T:** As I began communicating with potential employees, I required the skills to be able to adapt and apply appropriate communication whether over video calls, email or on phone calls to suit the formal communication standards adhered to industry. This is included using the appropriate tone in both calls and emails.  With additional refinement of conduct over emails, ensuring that my communication was structured and concise. I ultimately needed the knowledge and skills to understand how to adapt my communication to suit formal business settings and apply best practices in digital communication.
 
-**A:** 
 
-**R:** 
+**A:** I therefore completed the Business communication work readiness module to ensure that I understood what communication was expected in the when engaging with potential employees and which behaviours to avoid. Once I began communicating with employees and invited for digital interviews, I referenced the notes when reviewing the communication and in preparation for interviews. I applied the knowledge practivcally when writing structured business emails with clear subject lines, polite greetings, concise bodies, and professional closings. I also learned to match tone to audience and purpose.
+
+
+**R:** The continuous application of good practices as set out in the module allowed proper business communication to become second nature. I could instinctively modulate and adjust tone and communication depending on the setting. My communications, meeting and presentations in the workplace was easy and effective as I was well-equipped to maintain professionalism acrrose various communication chanels.
   
 
 
@@ -148,9 +150,9 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
-**S:** 
+**S:** As part of our Work Integrated Learning, I was expected to apply for jobs. Naturally these applications could lead to a job interview. Additionally, as a final year student entering the industry next year, it is imperative that I have possess the best skills and knowledge to provide myself advantages within the job market.
 
-**T:** 
+**T:** As such I needed understand what was expected of me in an interview and how best to answer questions. Furthermore, I needed more insight into how to prepare for an interview in terms of personal conduct and dress and what information I should research to ensure I present myself as a potential candidate.
 
 **A:** 
 
