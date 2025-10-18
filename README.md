@@ -197,14 +197,13 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
-**S:** 
+**S:** As I began considering my plans after studying and discussing future plans with my classmates, I realized many of them had many offers of opportunities from their networks which had been established or growing siince entering university. I recognized that I had a disadvantage as I had been focusing on my studies and had not seized the opportunities to form meaningful connections which could contribute to a personal or professional network.
 
-**T:** 
+**T:** Considering that networking is a key element in the professional environment, I had to take steps to understand the best way to start to grow my network. As well as gain insight into what it is to build and maintain that network so that it benefits both you and those within it.
 
-**A:** 
+**A:** I completed the Professional Networking module which provided me with valuable ideas on how to complete my task. My first step was to set up my LinkedIn profile so that I could connect with indivials professionally. I also considered my classmates who I knew and applied the information in the module within those relationships. Ensuring that I was respectful and authentic with them. I reached out often to see if I could add value to any task or issue they had. I communicated consistently and adjusted my approached depending on the situation. This ensures that I maintained both formal and informal networks.
 
-**R:** 
-
+**R:** I managed to develop connections which at first was a casual acquaintance into meaningful connections which formed the start of my growing professional network. I saw the value in reciprocation as individuals were happy to assist when i reached out. As such i gained an important resource which supported my as I navigated working and completing my studies.
 
 ## Work Place Etiquette
 <details>
