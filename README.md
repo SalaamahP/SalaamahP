@@ -130,10 +130,10 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 **T:** As I began communicating with potential employees, I required the skills to be able to adapt and apply appropriate communication whether over video calls, email or on phone calls to suit the formal communication standards adhered to industry. This is included using the appropriate tone in both calls and emails.  With additional refinement of conduct over emails, ensuring that my communication was structured and concise. I ultimately needed the knowledge and skills to understand how to adapt my communication to suit formal business settings and apply best practices in digital communication.
 
 
-**A:** I therefore completed the Business communication work readiness module to ensure that I understood what communication was expected in the when engaging with potential employees and which behaviours to avoid. Once I began communicating with employees and invited for digital interviews, I referenced the notes when reviewing the communication and in preparation for interviews. I applied the knowledge practivcally when writing structured business emails with clear subject lines, polite greetings, concise bodies, and professional closings. I also learned to match tone to audience and purpose.
+**A:** I therefore completed the Business communication work readiness module to ensure that I understood what communication was expected in the when engaging with potential employees and which behaviours to avoid. Once I began communicating with employees and invited for digital interviews, I referenced the notes when reviewing the communication and in preparation for interviews. I applied the knowledge practically when writing structured business emails with clear subject lines, polite greetings, concise bodies, and professional closings. I also learned to match tone to audience and purpose.
 
 
-**R:** The continuous application of good practices as set out in the module allowed proper business communication to become second nature. I could instinctively modulate and adjust tone and communication depending on the setting. My communications, meeting and presentations in the workplace was easy and effective as I was well-equipped to maintain professionalism acrrose various communication chanels.
+**R:** The continuous application of good practices as set out in the module allowed proper business communication to become second nature. I could instinctively modulate and adjust tone and communication depending on the setting. My communications, meeting and presentations in the workplace was easy and effective as I was well-equipped to maintain professionalism across various communication channels.
   
 
 
@@ -154,9 +154,9 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 **T:** As such I needed understand what was expected of me in an interview and how best to answer questions. Furthermore, I needed more insight into how to prepare for an interview in terms of personal conduct and dress and what information I should research to ensure I present myself as a potential candidate.
 
-**A:** To address this situationa and fullfill the task I completed the work readiness module on Interview skills. The enabled me to gain invaluable insights into industry approved processes and behaviours which should be folled when invited to an interview. The module was thought provoking in the sense that I had to consider how truly prepared I was for the different types of interviews as each type required various preparations and components. For example, for an in-person interview, did i have appropriate clothes? For a virtual interview, did I have professional background or area to attend the interview? These were questions I considered in addition to aiming to full undertstand how to practically go about ensuring could answer questions confidently and prsent myself in accordance with the module.
+**A:** To address this situation and fulfill the task I completed the work readiness module on Interview skills. The enabled me to gain invaluable insights into industry approved processes and behaviours which should be followed when invited to an interview. The module was thought provoking in the sense that I had to consider how truly prepared I was for the different types of interviews as each type required various preparations and components. For example, for an in-person interview, did i have appropriate clothes? For a virtual interview, did I have professional background or area to attend the interview? These were questions I considered in addition to aiming to full understand how to practically go about ensuring could answer questions confidently and present myself in accordance with the module.
 
-**R:** Once I completed the module and had some time to injest and process all the elements of an interview, I realized the module had provided a roadmap on how to improve. I considered potential outfits, researched common questions to ask and did a deep dive into techniques, such as the STAR technique, to answer questions. This allowed me to feel more prepared to answer any question as I has a strategy to follow which would be put forth in a professsional and structured ansswer.This would showcase my skills and knowledge to interviewers. This planning based on the point of the module served as the foundation for my first interview and really ensured I was not too overwhelmed or uncertain when I received an invite to an interview.
+**R:** Once I completed the module and had some time to ingest and process all the elements of an interview, I realized the module had provided a roadmap on how to improve. I considered potential outfits, researched common questions to ask and did a deep dive into techniques, such as the STAR technique, to answer questions. This allowed me to feel more prepared to answer any question as I has a strategy to follow which would be put forth in a professional and structured answer. This would showcase my skills and knowledge to interviewers. This planning based on the point of the module served as the foundation for my first interview and really ensured I was not too overwhelmed or uncertain when I received an invite to an interview.
 
 
 
@@ -174,11 +174,11 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
-**S:** As stated in the Interview Skills reflection, the Work Integrated Learning componenet of my qualification included processes which was likley to lead to a job interview. While the previous module provides a sound theoretical foundation for how to approach interviews. The reality can often be different. As such some form of practical experience would serve best to truly prepare for an interview.
+**S:** As stated in the Interview Skills reflection, the Work Integrated Learning component of my qualification included processes which was likely to lead to a job interview. While the previous module provides a sound theoretical foundation for how to approach interviews. The reality can often be different. As such some form of practical experience would serve best to truly prepare for an interview.
 
-**T:** Given the sitauton I was tasked with creating a video of myself in a mock interview. I had to select from a range of questions which might be asked in an interview and record myself answering them while applying the theoretcial work learnt, such as the STAR technique.
+**T:** Given the situation I was tasked with creating a video of myself in a mock interview. I had to select from a range of questions which might be asked in an interview and record myself answering them while applying the theoretical work learnt, such as the STAR technique.
 
-**A:** I completed the task by preparing for the interview as though it were real, doing research on the questions and structuring my answers in line with the technique. I practiced answering the questions outloud and also did a test run where I recorded myself and reviewed it, to ensure sound, video quality, tone, clothes, positioning, movements and background were acceptable.
+**A:** I completed the task by preparing for the interview as though it were real, doing research on the questions and structuring my answers in line with the technique. I practiced answering the questions out loud and also did a test run where I recorded myself and reviewed it, to ensure sound, video quality, tone, clothes, positioning, movements and background were acceptable.
 
 **R:** I was able to stimulate a fairly accurate mock virtual interview, which helped me greatly as my job placement in industry came from a virtual interview. Therefore, the processes truly prepared my for my actual interview as i was familiar with setting upa nd had a well structured plan and experience for the interview. The process highlighted areas of improvement as well which I adjusted before my actual interview.
 
@@ -197,11 +197,11 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
-**S:** As I began considering my plans after studying and discussing future plans with my classmates, I realized many of them had many offers of opportunities from their networks which had been established or growing siince entering university. I recognized that I had a disadvantage as I had been focusing on my studies and had not seized the opportunities to form meaningful connections which could contribute to a personal or professional network.
+**S:** As I began considering my plans after studying and discussing future plans with my classmates, I realized many of them had many offers of opportunities from their networks which had been established or growing since entering university. I recognized that I had a disadvantage as I had been focusing on my studies and had not seized the opportunities to form meaningful connections which could contribute to a personal or professional network.
 
 **T:** Considering that networking is a key element in the professional environment, I had to take steps to understand the best way to start to grow my network. As well as gain insight into what it is to build and maintain that network so that it benefits both you and those within it.
 
-**A:** I completed the Professional Networking module which provided me with valuable ideas on how to complete my task. My first step was to set up my LinkedIn profile so that I could connect with indivials professionally. I also considered my classmates who I knew and applied the information in the module within those relationships. Ensuring that I was respectful and authentic with them. I reached out often to see if I could add value to any task or issue they had. I communicated consistently and adjusted my approached depending on the situation. This ensures that I maintained both formal and informal networks.
+**A:** I completed the Professional Networking module which provided me with valuable ideas on how to complete my task. My first step was to set up my LinkedIn profile so that I could connect with individuals professionally. I also considered my classmates who I knew and applied the information in the module within those relationships. Ensuring that I was respectful and authentic with them. I reached out often to see if I could add value to any task or issue they had. I communicated consistently and adjusted my approached depending on the situation. This ensures that I maintained both formal and informal networks.
 
 **R:** I managed to develop connections which at first was a casual acquaintance into meaningful connections which formed the start of my growing professional network. I saw the value in reciprocation as individuals were happy to assist when i reached out. As such i gained an important resource which supported my as I navigated working and completing my studies.
 
@@ -217,17 +217,10 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
-**S:** 
+**S:** The notion of working for a big corporation was intimidating. The culture vastly differs from a university environment. There are certain professional expectations and social nuances which must be adhered to. It can be easy to slip up and conduct oneself in an unprofessional manner. Such an instance it could be detrimental to a new career.
 
-**T:** 
+**T:** Thus, it was vital to gain a comprehensive understanding of the behaviours, attitudes and standards prevalent in the workplace and internalize them in order to ensure proper conduct.
 
-**A:** 
+**A:** I completed the Work Place Etiquette module and cemented my foundation of proper workplace etiquette such as punctuality and team work. I also furthered my knowledge by gaining further insight into the importance of respecting diversity and individual boundaries. The importance of key principles such as respectful communication and demonstrating accountability were reaffirmed in my mind as standard conduct. The module provided further infomation on how maintaining these elements contributes to a positive work culture
 
-**R:** 
-
-
-
-
-
-
-
+**R:** These etiquettes are values which I personally maintain, as such through the reinforcement of the importance of these behaviours and gaining a thorough understanding of their value in the work environment, applying and maintaining proper etiquette at work was natural.
