@@ -176,11 +176,11 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 **S:** As stated in the Interview Skills reflection, the Work Integrated Learning componenet of my qualification included processes which was likley to lead to a job interview. While the previous module provides a sound theoretical foundation for how to approach interviews. The reality can often be different. As such some form of practical experience would serve best to truly prepare for an interview.
 
-**T:** Given the sitauton I was tasked with creating a video of myself in a mock interview. I had to select from a range of questions which might be asked in an interview and record myself answering them while apply the theoretcial work learnt, such as the STAR techniques
+**T:** Given the sitauton I was tasked with creating a video of myself in a mock interview. I had to select from a range of questions which might be asked in an interview and record myself answering them while applying the theoretcial work learnt, such as the STAR technique.
 
-**A:** 
+**A:** I completed the task by preparing for the interview as though it were real, doing research on the questions and structuring my answers in line with the technique. I practiced answering the questions outloud and also did a test run where I recorded myself and reviewed it, to ensure sound, video quality, tone, clothes, positioning, movements and background were acceptable.
 
-**R:** 
+**R:** I was able to stimulate a fairly accurate mock virtual interview, which helped me greatly as my job placement in industry came from a virtual interview. Therefore, the processes truly prepared my for my actual interview as i was familiar with setting upa nd had a well structured plan and experience for the interview. The process highlighted areas of improvement as well which I adjusted before my actual interview.
 
 
 
