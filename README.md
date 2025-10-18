@@ -27,6 +27,7 @@ Furthermore, I learnt that aligning goals with my values was a crucial step in m
 Overall, by implementing methodical planning for my career goals I became equipped with sound information and criteria when searching for jobs and felt secured in my current projection into the industry as my goals were suitable and sustainable.
 
 
+
 ## Skills and Interests
 
 <details>
