@@ -1,78 +1,4 @@
 # Digital Portfolio
-## Business Communication
-
-<details>
-<summary>Evidence</summary>
-  <img width="816" height="716" alt="Screenshot 2025-10-13 205637" src="https://github.com/user-attachments/assets/640ec509-1f5b-49aa-aa82-c7b90e235ef1" />
-
-
-
-
-
-</details>
-
-### Reflection
-  
-
-
-## Interview Skills
-
-<details>
-<summary>Evidence</summary>
-  
-<img width="785" height="713" alt="Screenshot 2025-10-13 205535" src="https://github.com/user-attachments/assets/1f0f73fc-0186-4fa5-b444-9db0653bfc42" />
-
-
-
-</details>
-
-### Reflection
-
-
-
-
-## Mock Interview Video
-
-<details>
-<summary>Evidence</summary>
-  
-<img width="823" height="571" alt="Screenshot 2025-10-13 205550" src="https://github.com/user-attachments/assets/f1579fd4-9e22-4324-bc58-b038f83a6224" />
-
-
-
-</details>
-
-### Reflection
-
-
-
-## Professional Networking
-
-<details>
-<summary>Evidence</summary>
-  
-<img width="809" height="706" alt="Screenshot 2025-10-13 205606" src="https://github.com/user-attachments/assets/1f72f89a-f493-47fb-92d8-479d0ff4af97" />
-
-
-
-</details>
-
-### Reflection
-
-
-## Work Place Etiquette
-<details>
-<summary>Evidence</summary>
-  
-<img width="819" height="716" alt="Screenshot 2025-10-13 205619" src="https://github.com/user-attachments/assets/ef0c4abe-e5fa-4237-8cea-d1b370e57a9c" />
-
-
-
-</details>
-
-### Reflection
-
-
 
 <details>
 <summary>Evidence</summary>
@@ -185,6 +111,82 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 **A:** I began my reviewing my current CV based on this information received from lecturers and the CV creation module. Once I highlighted the elements which were missing or required reworking, I tackled my CV on section at a time ensuring it adhered to the referred standards. This meant using bullet points with action verbs to emphasis tasks and reducing the number of words and rather focusing on remaining concise and quantifying achievements. I then examined my formatting, editing and well as the order my information was listed in. As more information was obtained I refined the document and its appearance. This included, styling, personal statement, references and attaching relevant documents.
 
 **R:** I had a completed and upgraded CV ready to be sent to employers and easily available for modifications for job application.
+
+
+
+## Business Communication
+
+<details>
+<summary>Evidence</summary>
+  <img width="816" height="716" alt="Screenshot 2025-10-13 205637" src="https://github.com/user-attachments/assets/640ec509-1f5b-49aa-aa82-c7b90e235ef1" />
+
+
+
+
+
+</details>
+
+### Reflection
+  
+
+
+## Interview Skills
+
+<details>
+<summary>Evidence</summary>
+  
+<img width="785" height="713" alt="Screenshot 2025-10-13 205535" src="https://github.com/user-attachments/assets/1f0f73fc-0186-4fa5-b444-9db0653bfc42" />
+
+
+
+</details>
+
+### Reflection
+
+
+
+
+## Mock Interview Video
+
+<details>
+<summary>Evidence</summary>
+  
+<img width="823" height="571" alt="Screenshot 2025-10-13 205550" src="https://github.com/user-attachments/assets/f1579fd4-9e22-4324-bc58-b038f83a6224" />
+
+
+
+</details>
+
+### Reflection
+
+
+
+## Professional Networking
+
+<details>
+<summary>Evidence</summary>
+  
+<img width="809" height="706" alt="Screenshot 2025-10-13 205606" src="https://github.com/user-attachments/assets/1f72f89a-f493-47fb-92d8-479d0ff4af97" />
+
+
+
+</details>
+
+### Reflection
+
+
+## Work Place Etiquette
+<details>
+<summary>Evidence</summary>
+  
+<img width="819" height="716" alt="Screenshot 2025-10-13 205619" src="https://github.com/user-attachments/assets/ef0c4abe-e5fa-4237-8cea-d1b370e57a9c" />
+
+
+
+</details>
+
+### Reflection
+
 
 
 
