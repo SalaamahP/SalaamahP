@@ -154,9 +154,9 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 **T:** As such I needed understand what was expected of me in an interview and how best to answer questions. Furthermore, I needed more insight into how to prepare for an interview in terms of personal conduct and dress and what information I should research to ensure I present myself as a potential candidate.
 
-**A:** 
+**A:** To address this situationa and fullfill the task I completed the work readiness module on Interview skills. The enabled me to gain invaluable insights into industry approved processes and behaviours which should be folled when invited to an interview. The module was thought provoking in the sense that I had to consider how truly prepared I was for the different types of interviews as each type required various preparations and components. For example, for an in-person interview, did i have appropriate clothes? For a virtual interview, did I have professional background or area to attend the interview? These were questions I considered in addition to aiming to full undertstand how to practically go about ensuring could answer questions confidently and prsent myself in accordance with the module.
 
-**R:** 
+**R:** Once I completed the module and had some time to injest and process all the elements of an interview, I realized the module had provided a roadmap on how to improve. I considered potential outfits, researched common questions to ask and did a deep dive into techniques, such as the STAR technique, to answer questions. This allowed me to feel more prepared to answer any question as I has a strategy to follow which would be put forth in a professsional and structured ansswer.This would showcase my skills and knowledge to interviewers. This planning based on the point of the module served as the foundation for my first interview and really ensured I was not too overwhelmed or uncertain when I received an invite to an interview.
 
 
 
@@ -174,9 +174,9 @@ Further elements I incorporated which would elevate my CV was quantifying achiev
 
 ### Reflection
 
-**S:** 
+**S:** As stated in the Interview Skills reflection, the Work Integrated Learning componenet of my qualification included processes which was likley to lead to a job interview. While the previous module provides a sound theoretical foundation for how to approach interviews. The reality can often be different. As such some form of practical experience would serve best to truly prepare for an interview.
 
-**T:** 
+**T:** Given the sitauton I was tasked with creating a video of myself in a mock interview. I had to select from a range of questions which might be asked in an interview and record myself answering them while apply the theoretcial work learnt, such as the STAR techniques
 
 **A:** 
 
